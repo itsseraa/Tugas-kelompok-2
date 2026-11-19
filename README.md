@@ -62,7 +62,14 @@ File database hasil export tersedia dalam repository dengan nama `sifin.sql` dan
 7. Sesuaikan konfigurasi koneksi database pada aplikasi.
 8. Jalankan aplikasi melalui browser sesuai alamat lokal yang telah dikonfigurasi.
 
-## 7. Dokumentasi Proyek
+## 7. Formulir Kepuasan Pengguna
+
+Formulir ini digunakan untuk mengetahui tingkat kepuasan pengguna terhadap aplikasi Sistem Informasi Inventori (SIFIN). Pengguna dapat mengisi formulir melalui tautan berikut:
+
+**Link Formulir Kepuasan:**
+https://itsseraa.github.io/Tugas-kelompok-2/
+
+## 8. Dokumentasi Proyek
 
 Repository ini juga digunakan untuk menyimpan dokumen pendukung pengembangan aplikasi SIFIN, meliputi:
 
@@ -71,14 +78,14 @@ Repository ini juga digunakan untuk menyimpan dokumen pendukung pengembangan apl
 - Dokumen User Acceptance Testing (UAT).
 - Dokumentasi hasil pengujian aplikasi.
 
-## 8. Anggota Kelompok
+## 9. Anggota Kelompok
 
 - Irawati
 - Auly Bunga Fitrah
 - Zaskya Raika Rahma
 - Farma Chanigo
 
-## 9. Mata Kuliah
+## 10. Mata Kuliah
 
 Rekayasa Perangkat Lunak (RPL)
 
