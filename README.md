@@ -51,6 +51,9 @@ Aplikasi SIFIN menggunakan database MySQL dengan nama database `sifin`.
 
 File database hasil export tersedia dalam repository dengan nama `sifin.sql` dan dapat diimpor melalui phpMyAdmin.
 
+**Link SIFIN**
+http://localhost/sifin/public/home
+
 ## 6. Cara Menjalankan Aplikasi
 
 1. Install aplikasi Laragon.
