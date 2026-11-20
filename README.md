@@ -81,12 +81,15 @@ Repository ini juga digunakan untuk menyimpan dokumen pendukung pengembangan apl
 - Dokumen User Acceptance Testing (UAT).
 - Dokumentasi hasil pengujian aplikasi.
 
+**Link Laporan Proyek:**
+https://itsseraa.github.io/Tugas-kelompok-2/Laporan_RPL_Kelompok2.pdf
+
 ## 9. Anggota Kelompok
 
 - Irawati
 - Auly Bunga Fitrah
 - Zaskya Raika Rahma
-- Farma Chaniago
+- M. Farma Chaniago
 
 ## 10. Mata Kuliah
 
