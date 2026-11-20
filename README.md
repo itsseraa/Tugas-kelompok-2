@@ -83,7 +83,7 @@ Repository ini juga digunakan untuk menyimpan dokumen pendukung pengembangan apl
 - Irawati
 - Auly Bunga Fitrah
 - Zaskya Raika Rahma
-- Farma Chanigo
+- Farma Chaniago
 
 ## 10. Mata Kuliah
 
