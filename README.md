@@ -69,8 +69,7 @@ http://localhost/sifin/public/home
 
 Formulir ini digunakan untuk mengetahui tingkat kepuasan pengguna terhadap aplikasi Sistem Informasi Inventori (SIFIN). Pengguna dapat mengisi formulir melalui tautan berikut:
 
-**Link Formulir Kepuasan:**
-https://itsseraa.github.io/Tugas-kelompok-2/
+**Link Formulir Kepuasan:** [Formulir Kepuasan Pengguna](https://itsseraa.github.io/Tugas-kelompok-2/formulir.html)
 
 ## 8. Dokumentasi Proyek
 
